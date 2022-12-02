@@ -24,8 +24,9 @@ If we share the same area of research, I very much look forward to interacting w
 2021.03-2021.08. Internship at Nanjing University Health Care Big Data Research Institute
 
 2021.09-Now.        Undergraduate in Nanjing University 
+
 ## Recent Publications
 Guan Gui, Zhen Zhao, Lei Qi, Luping Zhou, Lei Wang, Yinghuan Shi. “ Improving Barely Supervised Learning by Discriminating Unlabeled Samples with Super-Class. ” Thirty-Sixth Conference on Neural Information Processing Systems (NeurIPS), 2022. (Accepted as Spotlight, 5%) [paper](https://openreview.net/forum?id=Nlsr4DepNt)
 
 ## For more information
-More info about Ze Jiang can be found in [CV](https://zejiang-unsw.github.io/cv/) or [downloaded CV](http://zejiang-unsw.github.io/files/CV_ZeJIANG.pdf).
+More info about Guan Gui can be found in [CV]() or [downloaded CV]().
