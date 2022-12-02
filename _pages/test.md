@@ -2,6 +2,7 @@
 layout: archive
 permalink: /test/
 author_profile: true
+title: "Projects"
 ---
 
 ## Predicting the risk of patient death in the ICU
