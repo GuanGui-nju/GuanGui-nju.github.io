@@ -20,7 +20,7 @@ Competitions
 Honors
 ======
 * First class scholarship for the academic year. *in 2018,2019,2020 at CSU*
-* Outstanding Students. *in 2019,2020 at CSU*
+* Outstanding Students. *in 2018,2019,2020 at CSU*
 * Outstanding Graduating Students. *in 2021 at CSU*
 * National Scholarship. *in 2022 at NJU*
 * First class scholarship for the academic year. *in 2022 at NJU*
