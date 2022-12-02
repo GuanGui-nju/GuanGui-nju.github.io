@@ -10,7 +10,8 @@ redirect_from:
 
 Competitions
 ======
-* "Hua Wei Cup"
+* "Hua Wei Cup" Intelligent Student Design Competition - **National Second Prize**
+* 
 
 Honors
 ======
