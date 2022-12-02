@@ -10,14 +10,15 @@ redirect_from:
 
 Competitions
 ======
-* "Hua Wei Cup" Intelligent Student Design Competition - **National Second Prize**
-* 
+* "Huawei Cup" Intelligent Student Design Competition - **National Second Prize**
+* APMCM Asia-Pacific Student Mathematical Modeling Competition - **Second Prize in Asia-Pacific Region**
+* Universities and Colleges Computer Proficiency Challenge - **National Second Prize**
+* University Bio-Net Design Competition - **Provincial First Prize**
+* "Internet+" Student Innovation and Entrepreneurship Competition - **Third Prize in CSU**
+* College Student Programming Competition - **Third Prize in CSU**
 
 Honors
 ======
-* Hydro-climatological modelling and forecasting (e.g. Wavelet System Prediction)
-* Climate change impact on the water cycle (e.g. floods and droughts)
-* Hydrology/Hydraulics and water quality numerical modelling
-* HydroInformatics and water management
+* 
 
 
