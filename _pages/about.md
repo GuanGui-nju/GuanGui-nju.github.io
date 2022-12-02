@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ze Jiang"
+title: "Guan Gui"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Ze Jiang's personal homepage. Please also refer to my [homepage@UNSW](https://www.unsw.edu.au/staff/ze-jiang). 
+This is Guan Gui's personal homepage. Please also refer to my [homepage@UNSW](https://www.unsw.edu.au/staff/ze-jiang). 
 
 ## A short introduction
 I am a Postdoctoral Research Fellow in the School of Civil and Environmental Engineering's [Water Research Centre@UNSW](https://www.wrc.unsw.edu.au/) working in the field of hydro-climatology. My main research area has been so far the characterization of hydrological extremes (e.g. droughts). I received my Ph.D. in Water Resource Engineering from UNSW.  The major contribution of my Ph.D. was to find a novel way to modify predictor spectral representation using wavelet theory for improved natural system modelling. The method, namely Wavelet System Prediction (WASP), has been successfully applied in different areas, such as drought forecasting and paleoclimate reconstruction. I received my B.Eng. in Environmental Engineering from Hohai University, Nanjing, China; I did my Joint M.Sc., named “EuroAquae - HydroInformatics and Water Management” under a partnership of five European universities (in Barcelona, Budapest, Cottbus, Newcastle/UK, and Nice). Before moving to Australia, I also worked in hydrological and crop modelling at Tropical Marine Science Institute (TMSI) of National University of Singapore (NUS) for two years.
