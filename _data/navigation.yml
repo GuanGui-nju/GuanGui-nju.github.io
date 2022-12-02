@@ -1,12 +1,15 @@
 # main links links
 main:
+  #- title: "Publications"
+  #  url: /publications/
+
+  #- title: "Projects"
+  #  url: /talks/
+
   - title: "Publications"
-    url: /publications/
+    url: /pub/
 
   - title: "Projects"
-    url: /talks/
-
-  - title: "X"
     url: /test/
     
   #- title: "Projects"
