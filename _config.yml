@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author: 
   name             : "Guan Gui"
-  avatar           : #"profile.jpg"
+  avatar           : "profile.jpg"
   bio              : "Undergraduate in Nanjing University"
   location         : "Nanjing China"
   employer         :
