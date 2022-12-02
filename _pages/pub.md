@@ -5,7 +5,6 @@ author_profile: true
 title: "Publications"
 ---
 
-Publications
 
 ## Improving Barely Supervised Learning by Discriminating Unlabeled Samples with Super-Class
 [[PDF]](https://openreview.net/pdf?id=Nlsr4DepNt) [[Poster]](https://nips.cc/media/PosterPDFs/NeurIPS%202022/54238.png)
