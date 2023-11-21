@@ -8,21 +8,20 @@ redirect_from:
 
 {% include base_path %}
 
-Competitions
+竞赛
 ======
-* "Huawei Cup" Intelligent Student Design Competition - **National Second Prize**
-* APMCM Asia-Pacific Student Mathematical Modeling Competition - **Second Prize in Asia-Pacific Region**
-* Universities and Colleges Computer Proficiency Challenge - **National Second Prize**
-* University Bio-Net Design Competition - **Provincial First Prize**
-* "Internet+" Student Innovation and Entrepreneurship Competition - **Third Prize in CSU**
-* College Student Programming Competition - **Third Prize in CSU**
+* “华为杯”全国大学生智能设计竞赛 - **全国二等奖**
+* APMCM亚洲大学生数学建模竞赛 - **全国二等奖**
+* 全国大学生物联网设计竞赛 - **华中区域一等奖**
+* “互联网+“全国大学创新创业竞赛 - **校级三等奖**
+* 大学生程序设计竞赛 - **校级三等奖**
 
-Honors
+荣誉
 ======
-* First class scholarship for the academic year. *in 2018,2019,2020 at CSU*
-* Outstanding Students. *in 2018,2019,2020 at CSU*
-* Outstanding Graduating Students. *in 2021 at CSU*
-* National Scholarship. *in 2022 at NJU*
-* First class scholarship for the academic year. *in 2022 at NJU*
+* 国家奖学金（2022,2023）
+* 国家励志奖学金（2018,2019,2020）
+* 学年一等奖学金（2018,2019,2020,2021,2022,2023）
+* 中南大学优秀毕业生
+* 中南大学优秀学生、优秀团员
 
 
