@@ -2,21 +2,16 @@
 layout: archive
 permalink: /test/
 author_profile: true
-title: "Projects"
+title: "项目"
 ---
 
-## Predicting the risk of patient death in the ICU
+## ICU风险预测 （2021.03-2021.08）
+### ——东部战区总医院
 
-### Time：2021.03-2021.08
-### Partners: General Hospital of the Eastern Theater of the Chinese People's Liberation Army
+分析ICU病人多项时序数据，预测患者病危风险，辅助医生监测紧急情况等。
 
-The project analyzes data on multiple time-series characteristics of patients and predicts the risk of patient death by building machine learning models to assist doctors in diagnosis and treatment.
+## ICD分类系统 （2021.06-2022.02）
+### ——中国国新健康
 
-## ICD Classification System
-
-### Time: 2021.06-2022.02
-### Partners: China National New Health (CRHS)
-
-The project is oriented to mapping disease names to corresponding international ICD codes for very large scale text data (millions of labeled data and millions of unlabeled data).
-
+将病名映射到国际ICD标准编码（三万余类），帮助工作人员加速医保支付流程的推进。
 

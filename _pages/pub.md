@@ -2,7 +2,7 @@
 layout: archive
 permalink: /pub/
 author_profile: true
-title: "Publications"
+title: "论文"
 ---
 
 
@@ -17,7 +17,7 @@ title: "Publications"
 ## Enhancing Sample Utilization through Sample Adaptive Augmentation in Semi-Supervised Learning
 
 ### Published in Neural International Conference on Computer Vision (ICCV), 2023
-
+[[PDF]](https://arxiv.org/abs/2309.03598)
 **Abstract** In semi-supervised learning, unlabeled samples can be utilized through augmentation and consistency regularization. 
 However, we observed certain samples, even undergoing strong augmentation, are still correctly classified with high confidence, resulting in a loss close to zero. 
 It indicates that these samples have been already learned well and do not provide any additional optimization benefits to the model. We refer to these samples as ``naive samples".
